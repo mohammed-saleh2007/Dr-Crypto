@@ -1,0 +1,6 @@
+this is the file that we will encrypt to cypher text
+then we will decrypt again and return the file to his original file
+and we will sum the hash of the file
+to be sure that is the right file and there is not any changs
+
+code of no thing: 548654$#!@##$#%$^&*&(*)(_{}{:KJJGQWE**++/**/-*-=-
